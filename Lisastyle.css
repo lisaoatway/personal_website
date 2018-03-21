@@ -1,0 +1,55 @@
+
+ul.nav{
+    list-style: none;
+    padding: 0;
+}
+
+
+ul.nav li{
+    display:inline;
+    font-family: sans-serif;
+    padding: px;
+    color: aliceblue
+}
+
+h1{
+    color:blueviolet;
+    font-family:avenir;
+    font-size: 28px;
+    margin-left: 20px;
+}
+
+body, html {
+    height: 100%;
+}
+
+body{ 
+    background-image: url(Aboutme.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+/*
+    padding-left: 50px;
+    padding-top: 372px;
+    width: 500px;
+*/
+}
+
+p{
+    color:ghostwhite;
+    font-family: avenir;
+    font-size: 16px;
+    margin-left: 20px;
+    width: 400px;
+}
+
+.music {
+        color: ghostwhite;
+        font-size: 16px;
+        font-family: avenir;
+}
+
+.move-me {
+    position:fixed;
+    top: 400px;
+}

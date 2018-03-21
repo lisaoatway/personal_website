@@ -1,0 +1,88 @@
+body, html {
+    height: 100%;
+    background-image:url(images/paper2.jpg);
+}
+
+
+p {
+    font-family:sans-serif;
+    color:black;
+    font-size: 18px;
+    width: 650px;
+    margin: 20px;
+    float: left;
+    position:relative;
+    top: 90px;
+    left:180px;
+}
+    
+
+ul.nav{
+    list-style: none;
+    padding: 0;
+}
+
+
+ul.nav li{
+    display:inline;
+    font-family:sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    position: relative;
+    left:860px;
+    top:180px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 44px;
+    position: relative;
+    left: 325px;
+    color: blue;
+    position: relative;
+    top:90px;
+}
+.images{
+    margin-right:40px;
+    margin-bottom:20px;
+    margin-top: 15px;
+    float: right;
+    padding:
+}
+
+/*
+#denise{
+    position:fixed;
+    top:200px;
+    position:relative;
+    top:200px; 
+    right:30px;
+*/
+/*
+}
+
+.imagesleft{
+    float: left;
+    margin-right:35px;
+    margin-bottom:30px;
+    margin-top: 15px;
+}
+*/
+/*
+#wrapper {
+    background-image: url(images/paper.jpg);
+    background-repeat:repeat;
+    background-size: cover;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	width: 1000px;
+    height: 1700px;
+	margin-right: auto;
+	margin-left: auto;
+}*/
