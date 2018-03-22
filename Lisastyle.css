@@ -17,21 +17,29 @@ ul.nav{
     background-color:floralwhite;
     position: fixed;
     right:10px;
+    border: 1px solid #555;
 }
 
+/*why won't the whole active Li change background color?*/
 
 ul.nav li{
     display:block;
-    font-family: avenir;
+    font-family: avenir-medium;
     font-size: 16px;
     padding: 5px 15px;
     text-decoration: none;
+    text-align: center;
+    border-bottom: 1px solid #555;
+
 }
 
-li a.active{
+a.active{
     background-color: blueviolet;
     color: white;
+    margin:0;
+    padding:0;
 }
+
 h1{
     color:blueviolet;
     font-family:avenir;
@@ -56,5 +64,6 @@ p{
 
 .move-me {
     position:relative;
-    top: 400px;
+    top: 500px;
+    left:40px;
 }
