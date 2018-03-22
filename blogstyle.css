@@ -17,7 +17,7 @@ ul.nav{
 
 ul.nav li{
     display:block;
-    font-family: avenir;
+    font-family: avenir-medium;
     font-size: 16px;
     padding: 5px 15px;
     text-decoration: none;
@@ -46,13 +46,12 @@ span{
     color: fuchsia;
     font-family: avenir-heavy;
     font-size: 20px;
-    text-shadow: 2px 2px white; 
+    text-shadow: 2px 2px black; 
     text-transform: uppercase;
-    text-shadow: 10px 9px black;
-    
 }
+    
 .move-me {
     position:relative;
     top: 30px;
-    left: 30px;
+    left: 40px;
 }
