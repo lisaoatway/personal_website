@@ -64,15 +64,14 @@ a.active{
 
 
 
-@media only and (min-width: 600px) {
+@media only and (min-width: 480px)and (max-width:812px) {
 p { font-size:80%;padding:5px; margin:5px;}
 } 
 
-@media only and (min-width: 768px) {
+@media only and (min-width: 813px) and (max-width:1024px) {
 p { font-size:80%;padding:10px; margin:5px;}
 } 
 
-
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1025px) and (max-width:1320px) {
    p { font-size:100%; padding:12px; margin:5px;}
 } 
